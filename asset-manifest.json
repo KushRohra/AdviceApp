@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KushRohra/AdviceApp/static/css/main.0206c421.chunk.css",
-    "main.js": "/KushRohra/AdviceApp/static/js/main.b7d5e71b.chunk.js",
-    "main.js.map": "/KushRohra/AdviceApp/static/js/main.b7d5e71b.chunk.js.map",
-    "runtime-main.js": "/KushRohra/AdviceApp/static/js/runtime-main.5e7183ce.js",
-    "runtime-main.js.map": "/KushRohra/AdviceApp/static/js/runtime-main.5e7183ce.js.map",
-    "static/js/2.6d2c2c71.chunk.js": "/KushRohra/AdviceApp/static/js/2.6d2c2c71.chunk.js",
-    "static/js/2.6d2c2c71.chunk.js.map": "/KushRohra/AdviceApp/static/js/2.6d2c2c71.chunk.js.map",
-    "index.html": "/KushRohra/AdviceApp/index.html",
-    "precache-manifest.b686e792ab2df7ea31a31493c7a09fca.js": "/KushRohra/AdviceApp/precache-manifest.b686e792ab2df7ea31a31493c7a09fca.js",
-    "service-worker.js": "/KushRohra/AdviceApp/service-worker.js",
-    "static/css/main.0206c421.chunk.css.map": "/KushRohra/AdviceApp/static/css/main.0206c421.chunk.css.map",
-    "static/js/2.6d2c2c71.chunk.js.LICENSE.txt": "/KushRohra/AdviceApp/static/js/2.6d2c2c71.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KushRohra/AdviceApp/static/media/city.91c109fc.jpg"
+    "main.css": "/AdviceApp/static/css/main.5459ac13.chunk.css",
+    "main.js": "/AdviceApp/static/js/main.b7d5e71b.chunk.js",
+    "main.js.map": "/AdviceApp/static/js/main.b7d5e71b.chunk.js.map",
+    "runtime-main.js": "/AdviceApp/static/js/runtime-main.3ffa6b60.js",
+    "runtime-main.js.map": "/AdviceApp/static/js/runtime-main.3ffa6b60.js.map",
+    "static/js/2.6d2c2c71.chunk.js": "/AdviceApp/static/js/2.6d2c2c71.chunk.js",
+    "static/js/2.6d2c2c71.chunk.js.map": "/AdviceApp/static/js/2.6d2c2c71.chunk.js.map",
+    "index.html": "/AdviceApp/index.html",
+    "precache-manifest.9a4eb0e90be51bbc2dbc6d2204a46a06.js": "/AdviceApp/precache-manifest.9a4eb0e90be51bbc2dbc6d2204a46a06.js",
+    "service-worker.js": "/AdviceApp/service-worker.js",
+    "static/css/main.5459ac13.chunk.css.map": "/AdviceApp/static/css/main.5459ac13.chunk.css.map",
+    "static/js/2.6d2c2c71.chunk.js.LICENSE.txt": "/AdviceApp/static/js/2.6d2c2c71.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AdviceApp/static/media/city.91c109fc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e7183ce.js",
+    "static/js/runtime-main.3ffa6b60.js",
     "static/js/2.6d2c2c71.chunk.js",
-    "static/css/main.0206c421.chunk.css",
+    "static/css/main.5459ac13.chunk.css",
     "static/js/main.b7d5e71b.chunk.js"
   ]
 }
